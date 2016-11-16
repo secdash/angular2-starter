@@ -1,6 +1,6 @@
 import { browser, element, by } from 'protractor';
 
-export class Insurhack2Page {
+export class Angular2StarterPage {
   navigateTo() {
     return browser.get('/');
   }

@@ -1,10 +1,10 @@
-import { Insurhack2Page } from './app.po';
+import { Angular2StarterPage } from './app.po';
 
-describe('insurhack2 App', function() {
-  let page: Insurhack2Page;
+describe('Angular2 Starter App', function() {
+  let page: Angular2StarterPage;
 
   beforeEach(() => {
-    page = new Insurhack2Page();
+    page = new Angular2StarterPage();
   });
 
   it('should display message saying app works', () => {
